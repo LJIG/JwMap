@@ -1,0 +1,27 @@
+{
+  "name": "jwmap",
+  "version": "0.0.1",
+  "description": "使用amap+vue制作，可以快速把amap集成到项目中",
+  "main": "index.js",
+  "private": false,
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amap",
+    "vue",
+    "map",
+    "高德地图"
+  ],
+  "author": "Bian <389701057@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/jwmap.git"
+  }
+}
